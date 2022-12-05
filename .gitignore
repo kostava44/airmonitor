@@ -1,0 +1,6 @@
+*.sw?
+/.esphome/
+/secrets.yaml
+/.base.yaml
+/.env
+*.csv
